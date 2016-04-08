@@ -1,0 +1,1 @@
+function getName(){var e="string";console.log(e)}var React=require("react"),ReactDOM=require("react-dom"),Index=React.createClass({displayName:"Index",render:function(){return React.createElement("h1",null,"Index")}});ReactDOM.render(React.createElement(Index,null),document.getElementById("app"));

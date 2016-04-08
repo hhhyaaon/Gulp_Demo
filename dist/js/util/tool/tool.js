@@ -1,0 +1,1 @@
+var React=require("react"),ReactDOM=require("react-dom"),Index=React.createClass({displayName:"Index",render:function(){return React.createElement("div",null,"Tool")}});
