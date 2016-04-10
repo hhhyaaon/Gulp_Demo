@@ -1,7 +1,1 @@
-.a {
-  color: #6f6f6f;
-}
-.a .b {
-  width: 100px;
-  height: 100px;
-}
+.a{color:#6f6f6f}.a .b{width:100px;height:100px;display:-webkit-box;display:-webkit-flex;display:-ms-flexbox;display:flex}
